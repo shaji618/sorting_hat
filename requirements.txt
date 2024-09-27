@@ -1,0 +1,8 @@
+colour
+edge-tts
+Pillow
+playsound
+pyaudio
+PyObjC
+setuptools
+SpeechRecognition
